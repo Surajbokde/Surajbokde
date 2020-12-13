@@ -3,10 +3,11 @@
 <!--
 **Surajbokde/Surajbokde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Surajbokde" alt="Views on Profile" /> </p>
 <h1 >Hi there 👋</h1>
 
 <img  width="850px" height="447px" src="./assets/surajbokde-3.gif" class="img-fluid" alt="Suraj Bokde">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Surajbokde" alt="Views on Profile" /> </p>
+
 <h2 align="center">  <img  width="160px" height="150px" src="./assets/image.png" class="img-fluid" alt="Suraj Bokde">   I am Suraj Bokde,aspiring Full Stack Developer, looking forward to contribute to projects</h2>
 
 
