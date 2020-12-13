@@ -7,7 +7,7 @@
 <h1 >Hi there 👋</h1>
 
 <img  width="850px" height="447px" src="./assets/surajbokde-3.gif" class="img-fluid" alt="Suraj Bokde">
-<img  width="850px" height="447px" src="./assets/surajbokde-4.gif" class="img-fluid" alt="Suraj Bokde">
+<img  width="850px" height="447px" src="./assets/surajbokde-5.gif" class="img-fluid" alt="Suraj Bokde">
 
 
 
