@@ -11,10 +11,10 @@
 
 
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning React Js
+- 🔭 I’m currently working on React JS
+- 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with React Projects
+- 🤔 I’m looking for help with MERN stack Projects
 - 📫 How to reach me: surajbokde890@gmail.com
 
 
